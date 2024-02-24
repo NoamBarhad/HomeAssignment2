@@ -1,4 +1,4 @@
-Here's the updated README.md file with the new CSS properties you learned:
+
 
 ---
 
@@ -29,8 +29,10 @@ Noam portfolio is a collection of projects showcasing my skills and experiences 
 To view the website portfolio, simply open the `index.html` file in a web browser.
 
 ## Screenshots
-[Insert screenshots of your website portfolio here]
+
 ![image](https://github.com/NoamBarhad/hm2/assets/158473661/1cbb0812-4826-465d-b572-0f6a5ce66910)
+![image](https://github.com/NoamBarhad/hm2/assets/158473661/7e91faba-252e-42e0-8317-f9e272e65b10)
+
 
 
 ---
