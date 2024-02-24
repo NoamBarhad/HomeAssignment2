@@ -1,0 +1,58 @@
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+#about {
+  position: relative;
+  margin: 10%;
+}
+
+#about p{
+  text-align: center;
+ padding-top: 30px;
+  height: fit-content;
+}
+#about h1{
+  text-align: center;
+  font-size: 48px;
+}
+.icon {
+  
+  height: 2rem;
+}
+
+.section-container {
+  display: flex;
+}
+.about-containers {
+  gap:  2rem;
+  margin-bottom:  2rem;
+  margin-top:  2rem;
+}
+
+.about-details-container {
+  justify-content: center;
+  flex-direction: column;
+}
+
+.about-containers,
+.about-details-container {
+  display: flex;
+}
+
+
+.details-container {
+  padding: 1.5rem;
+  flex: 1;
+  background: #0E8388;
+  border-radius: 2rem;
+  border: rgb(53, 53, 53) 0.1rem solid;
+  border-color: rgb(163, 163, 163);
+  text-align: center;
+}
+.details-container h3{
+  color: #101111;
+}
+
